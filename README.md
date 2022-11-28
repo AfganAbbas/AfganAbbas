@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-JdjnhsZ4YP0/XWK79Y4TFEI/AAAAAAAACGE/1r3_UOtEoTYOa8GMAvhCWWISkp5LtLeJwCLcBGAs/s1600/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afganabbas&label=Profile%20views&color=0e75b6&style=flat" alt="afganabbas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afganabbas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="afganabbas" /> </p>
 <a href="https://www.codewars.com/users/AfganAbbas" target="_blank"  align="left"> <img src="https://www.codewars.com/users/AfganAbbas/badges/large" alt="afganabbas" /> </a>
 
 - 🔭 I’m currently working on **Project development**

@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-JdjnhsZ4YP0/XWK79Y4TFEI/AAAAAAAACGE/1r3_UOtEoTYOa8GMAvhCWWISkp5LtLeJwCLcBGAs/s1600/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afganabbas&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="afganabbas" /> </p>
-<a href="https://www.codewars.com/users/AfganAbbas" target="_blank"  align="left"> <img src="https://www.codewars.com/users/AfganAbbas/badges/medium" alt="afganabbas" /> </a>
+<a href="https://www.codewars.com/users/AfganAbbas" target="_blank"  align="left"> <img src="https://www.codewars.com/users/AfganAbbas/badges/micro" alt="afganabbas" /> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

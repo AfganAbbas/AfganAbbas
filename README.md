@@ -1,4 +1,4 @@
-<p align="center"><img alt="Coding" width="880" src="https://www.gifcen.com/wp-content/uploads/2022/10/zenitsu-gif-2.gif"></p>
+<p align="center"><img alt="Coding" width="880" src="https://giffiles.alphacoders.com/756/75682.gif"></p>
 <h1 align="center">Hi 👋, I'm Afgan Abbasov</h1>
 <h3 align="center">Frontend Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-JdjnhsZ4YP0/XWK79Y4TFEI/AAAAAAAACGE/1r3_UOtEoTYOa8GMAvhCWWISkp5LtLeJwCLcBGAs/s1600/programming.gif">
